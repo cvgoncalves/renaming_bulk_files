@@ -1,6 +1,7 @@
 import os
 
 def main():
+
     i = 0
     path = "D:/PycharmProjects/renaming_bulk_files/files/"
     for filename in os.listdir(path):
